@@ -1,0 +1,87 @@
+.img1 {
+	background-color:white;
+	border-style:solid;
+	border-color:blue;
+	border-width:3px;
+}
+.img1container {
+	float:right;
+	border-style:solid;
+	border-width:10px;
+	border-color:green;
+	margin: 5px 5px 5px 5px;
+}
+.img2 {
+	float:right;
+	border-style:solid;
+	border-color:red;
+	border-width:5px;
+	margin: 0px 20px 0px 20px;
+}
+td {
+	padding:10px 10px 10px 10px;
+}
+.menucoloron {
+	background-color:green;
+	color:white;
+	vertical-align:top;
+	width:130px;
+}
+.menucoloroff {
+	background-color:transparent;
+	color:black;
+	vertical-align:top;
+	width:130px;
+}
+.aboutme {
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+	text-align:justify;
+	min-width:280px;
+}
+.enrolledcoloron {
+	background-color:orange;
+	color:white;
+	vertical-align:top;
+}
+.enrolledcoloroff {
+	background-color:transparent;
+	color:black;
+	vertical-align:top;
+}
+.footer {
+	border-style:dashed;
+	border-color:green;
+	border-width:5px;
+	padding: 0px 0px 75px 0px;
+}
+.darkmodeon {
+	background-color:grey;
+}
+.darkmodeoff {
+	background-color:white;
+}
+body {
+	width: 100%;
+	max-width: 1000px;
+	margin-left:auto;
+	margin-right:auto
+}
+.autooverflow {
+	overflow:auto;
+}
+.subheading {
+	text-decoration-line:underline;
+}
+.headbodylinebreak {
+	margin-bottom:20px;
+	clear:both;
+}
+table {
+	min-height:50%;
+	border-spacing:5px;
+}
+.whitelinebreak {
+	background-color:white;
+}

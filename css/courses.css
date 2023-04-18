@@ -1,0 +1,36 @@
+.img1container {
+	float:right;
+}
+.autooverflow {
+	overflow:auto;
+}
+.subheading {
+	text-decoration-line:underline;
+}
+.headbodylinebreak {
+	margin-bottom:20px;
+	clear:both;
+}
+.footer {
+	border-style:dashed;
+	border-color:green;
+	border-width:5px;
+	padding: 0px 0px 75px 0px;
+}
+.enrolled {
+	color:black;
+	background-color:lightblue;
+}
+.notenrolled {
+	color:gray
+}
+table {
+	width:100%;
+	border-collapse:collapse;
+}
+td {
+	padding:5px 10px 5px 10px;
+}
+table, th, td {
+	border:1px solid;
+}
